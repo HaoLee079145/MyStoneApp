@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StoneApp.iml" filepath="$PROJECT_DIR$/StoneApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stone-annotations/stone-annotations.iml" filepath="$PROJECT_DIR$/stone-annotations/stone-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stone-compiler/stone-compiler.iml" filepath="$PROJECT_DIR$/stone-compiler/stone-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stone-core/stone-core.iml" filepath="$PROJECT_DIR$/stone-core/stone-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stone-wms/stone-wms.iml" filepath="$PROJECT_DIR$/stone-wms/stone-wms.iml" />
+    </modules>
+  </component>
+</project>

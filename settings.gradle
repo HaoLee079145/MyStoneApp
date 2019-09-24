@@ -1,0 +1,1 @@
+include ':example', ':stone-annotations', ':stone-compiler', ':stone-core', ':stone-wms'
